@@ -1,0 +1,3 @@
+ngAutoEllipsis
+---------
+Work in progress

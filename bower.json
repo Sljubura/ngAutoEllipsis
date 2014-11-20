@@ -1,0 +1,14 @@
+{
+  "name": "AutoEllipsis",
+  "version": "0.0.0",
+  "authors": [
+    "Sljubura <sljubura@gmail.com>"
+  ],
+  "description": "Directive for applying ellipsis on selected elements.",
+  "main": "src/ngAutoEllipsis.js",
+  "keywords": [
+    "auto ellipsis"
+  ],
+  "license": "MIT",
+  "private": true
+}
